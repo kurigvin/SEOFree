@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="rus1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/trunk/jdbc/sqljdbc_7.0/rus/mssql-jdbc-7.0.0.jre8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/trunk/jdbc/sqljdbc_7.0/rus/mssql-jdbc-7.0.0.jre10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
